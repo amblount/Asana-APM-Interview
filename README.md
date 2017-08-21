@@ -18,3 +18,15 @@ Let's say you're Stitcher's lead PM and assume listeners who interact with other
 
 Please submit here: https://app.greenhouse.io/tests/0478f4583d69a381eb74fdb2b315b46e
 
+ANSWER: [My Response](https://github.com/amblount/Asana-APM-Interview/blob/master/answer.md)
+
+The other markdown files contain my thought process to get to my answer.
+
+Ironically my interview on sticher was released a few days after you guys sent this over, if you like you can listen to it 
+[here](https://www.stitcher.com/podcast/federal-reserve-bank-of-san-francisco/does-college-matter/e/51114321?autoplay=true
+)
+
+Thanks,
+
+-Alivia
+

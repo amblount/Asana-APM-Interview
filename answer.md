@@ -42,5 +42,8 @@ application in use.
 
 Given the current logo widgets pictures on some of the images included in the google drive, it looks like there are driver mode and 
 facebook integration. This is a great start for collecting data, like the time of day the user is opening the app, and how long they are
-using it. It could be useful to store data about how long the user is going between opening the app and starting to play the media and then
-touching the screen again.
+using it. It could be useful to store data about how long the user is going between opening the app and starting to play the media and then touching the screen again.
+
+If users find certain aspects of the content interesting and elicit an emotional response to that portion of the content, but we can not find other users who have any feelings about that part of the content, then the feature would not be a success for that user. I have a feeling that this would be an edge case but if this continued to occur for more than 30% of users, then we may need to change the categorization algorithm engine which would be doing the recommendations and user matching. If three users all like one portion of the content this data would enable us to display the profiles of these users to one another and read their comments and view their color picker and emotional response to the content. They might also get content recommendations from these user who hopefully are not already a part of their current network. This could be a really great insight.
+
+I also think that the Facebook API could be problematic, because it is limiting in which data we can collect about a user, and in order to gain likes and friend lists we need very specific permissions from the user, and I think the friends portion of the API is depreicated, so we can't get that information. It could be interesting to have a sort of internal sticher social network which worked like a large internal facebook but all of the posts in the newsfeed came from content creators which users liked or followed and could only comment on those posts.
